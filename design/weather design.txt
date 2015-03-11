@@ -1,0 +1,23 @@
+Subitem 0
+———————-
+Austin, TX (OMIT: Mar 27/10:00 am)
+T: 99 Hi: 99 Lo: 99 - Conditions: mostly cloudy - Humidity: 99 - Visibility: 99.99%
+———————-
+
+Subitem 1
+———————-
+[Su] Hi:99 Lo:99
+mostly cloudy
+———————-
+
+Subitem 2
+———————-
+[Additional]
+Humidity: 99% - Visibility: 99.99 mi - Sunrise: 9:00 am - Sunset: 7:00 pm
+———————-
+
+[*  ]
+[ * ]
+[  *]
+[ * ]
+[*  ]
