@@ -3,7 +3,7 @@ App system for Raspberry Pi and Adafruit LCD
 
 **Video preview**
 
-<a href="https://www.youtube.com/embed/WGYEgvAsx2Y" target="_blank"><img src="http://img.youtube.com/vi/WGYEgvAsx2Y/0.jpg" 
+<a href="https://youtu.be/WGYEgvAsx2Y" target="_blank"><img src="http://img.youtube.com/vi/WGYEgvAsx2Y/0.jpg" 
 alt="PiPuccino" width="280" height="200" border="10" /></a>
 
 ### Current Plugins
